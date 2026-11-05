@@ -1,3 +1,27 @@
+<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
+<h3 align="center">Full-Stack Software Development Engineer from India, building AI agents, RAG systems, and cloud-native products</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraj61522&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraj61522" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaraj61522" alt="adityaraj61522" /></a> </p>
+
+- 🔭 I’m currently working on [AI agents for feedback, leave, and performance at PeopleStrong](https://www.peoplestrong.com/)
+
+- 🌱 I’m currently learning **LLMOps, MCP-based agents, and large-scale system design**
+
+- 👯 I’m looking to collaborate on [AI-Tutor and applied RAG products](https://github.com/adityaraj61522/ai-tutor)
+
+- 🤝 I’m looking for help with **LLM integration, microservices, and developer tooling**
+
+- 👨‍💻 All of my projects are available at [https://aditya-raj.site/](https://aditya-raj.site/)
+
+- 💬 Ask me about **Generative AI, RAG pipelines, FastAPI, Spring Boot, Node.js, and Flutter**
+
+- 📫 How to reach me **adityaraj61522@gmail.com**
+
+- 📄 Know about my experiences [https://aditya-raj.site/](https://aditya-raj.site/)
+
+
 # 💫 About Me:
 Full-Stack Software Development Engineer with 4+ years shipping backend systems, AI agents, and cloud-native products in Java, Python, Node.js, and TypeScript. At PeopleStrong I build Generative AI used by 80+ organizations — a FastAPI, LangChain, and RAG feedback agent cut manual review time by 40%. Selected work: AI-Tutor, AI-News, Ruby AI, and Ruby RX. Portfolio: https://aditya-raj.site/
 
